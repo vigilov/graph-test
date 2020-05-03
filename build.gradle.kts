@@ -12,5 +12,5 @@ dependencies {
 }
 
 application {
-    mainClassName = "ru.vigilov.graph.Application"
+    mainClassName = "ru.vigilov.graphtest.Application"
 }
